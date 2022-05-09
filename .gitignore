@@ -1,0 +1,10 @@
+*.pyc
+*.cnf
+*Cases/
+*.json
+*__pycache__/
+*.pyc
+.idea/
+GUI/__pycache/
+__pycache__
+unused/
